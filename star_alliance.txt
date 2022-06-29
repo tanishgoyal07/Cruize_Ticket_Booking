@@ -1,0 +1,17 @@
+     ________________________________________________________
+    |                                                        |
+    |        -- Welcome to CRUIZZER Star Alliance --         |
+    |                                                        |
+    |          Facilities                  Price             |
+    |                                                        |
+    |      1-> Deck Booking               40000/Night        |
+    |      2-> Lobby Booking              30000/Night        |
+    |      3-> Pool Party                 35000/Night        |
+    |      4-> Front Deck View            25000/Day          |
+    |      5-> Lounge                     3500/Person        |
+    |                                                        |
+    |                                                        |
+    |        Choose any of the Facilities to proceed...      |
+    |                                                        |
+    |________________________________________________________|
+           

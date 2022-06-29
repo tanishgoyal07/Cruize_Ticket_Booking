@@ -1,0 +1,10 @@
+
+     _____________________________________________________
+    |           --- CRUIZZER SPECIAL PACKAGES ---         |
+    |                                                     |
+    |    -> Press 1 for Family Booking                    |
+    |    -> Press 2 for Couple Special                    |
+    |    -> Press 3 for Corporate Booking                 |
+    |                                                     |
+    |_____________________________________________________|
+    

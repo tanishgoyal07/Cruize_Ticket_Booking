@@ -1,0 +1,22 @@
+------------------Cruizzer-----------------
+-------------------Ticket-------------------
+____________________________________________
+
+Name:			tanish
+Contact:		9992896585
+Email:			goyaltanish789@gmail.com
+
+Source:			Goa
+Destination:	Mumbai
+Date			13/06/2022
+
+Travellers
+Adult :			5
+Child :			2
+____________________________________________
+Fare
+Adult:			5000 + taxes
+Child:			3800 + taxes
+Total Charge:	 33720
+____________________________________________
+------------------THANK YOU-----------------
